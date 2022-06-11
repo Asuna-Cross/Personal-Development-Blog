@@ -9,8 +9,6 @@ My previous history was originally in Visual Basic, followed by Flash and C++, a
 
 Currently I volunteer doing technology support for those with little to no experience with computers.
 
-My goal for technology is to be able to enter the industry that I had originally trained for. Years have went past and the technology and rules have changed a lot from when I last learnt, so for now, it's time to upgrade myself.
-
 # Goals
 Within the next year I hope to start looking for entry level jobs in the fields of IT, either through web development, networking or IT support.
 
