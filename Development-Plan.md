@@ -6,12 +6,10 @@ Following The Odin Project in order to learn about how to build websites, will b
 Current Stage : Foundations
 
 ## Programming
-Automate the Boring Things is the learning path to get back into learning programing languages. The choice to learn Python is due to how accessible the language is, and how widely used it is in my other area of expertise that I am building (physics).
-
-After Python there is a possibility of going closer to the metal with moving to C++.
-
-Current Stage : Chapter 7
+To learn how to program in python using various sources. This is currently on hold while I complete The Odin Project.
 
 ## Networking and Hardware
 Currently in the process of putting together a plan for how to learn networking and hardware. This will be updated once a plan is in place.
 
+## Cyber Security
+In the process of following Portswigger's cyber security course to learn more about cyber security
