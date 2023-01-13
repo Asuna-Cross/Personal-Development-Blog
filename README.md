@@ -20,4 +20,4 @@ An up-to-date history of what I have been doing to work towards my goals, includ
 ## SQA Course
 The diary for the course that I am currently taking through Enable in conjunction with Dundee and Angus College, this has been put in a seperate section for assessment purposes.
 
-Course itself is to create an interactive CV for employers to see, it must contain audio, video and still images and be of a consistent brand for myself.
+The course itself took a nose dive due to administration issues. As they changed entry requirements no longer eligible to resit due to age.
