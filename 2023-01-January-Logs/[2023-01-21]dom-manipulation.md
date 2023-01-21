@@ -1,0 +1,1 @@
+Started on the DOM manipulation section from the Odin Project and while I had good intentions starting out, my brain just isn't wired to do it properly today.
