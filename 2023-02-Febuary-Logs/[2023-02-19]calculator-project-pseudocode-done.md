@@ -4,4 +4,4 @@ The main questions being asked when I started it today was how was I going to be
 
 I managed to get some semblance of pseudocode for this completed and into the project as a bare bones for the coding section. From here I need to refine it slightly and break down the code sections from being repeated everywhere to more broken down into managable sections for me to use.
 
-Thinking of turning shared functions into their own seperate functions and calling them in the main code, as this will cut down on code needed.
+Working on it more throughout another session and managed to get the pseudocode to a position where I feel ready to start coding next time I open it up, if that's later today or another day is to be decided.
