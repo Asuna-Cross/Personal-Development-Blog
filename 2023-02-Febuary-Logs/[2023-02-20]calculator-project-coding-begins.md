@@ -1,0 +1,1 @@
+Today's goals is to make a start on the javascript programming for the calculator project.
