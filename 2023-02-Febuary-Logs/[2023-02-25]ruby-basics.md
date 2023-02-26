@@ -6,6 +6,16 @@ Made it through the Basic Data Types, next up tomorrow is to do the coding part 
 
 Not got as much energy as yesterday to power on through things.
 
+Upstairs neighbour is drunk, so I'm back...
+
+Cloned into the Ruby exercises repo and got RSpec installed, time to bash through these.
+
+Also, Death Cab for Cutie's song Black Sun is on repeat >.<
+
+Completed Basic Data types, it really is super similar to Python, with just lots more built in things so far.
+
+Finished off the day by completing the next section of Ruby Basics.
+
 # Notes
 
 A reminder - Integers return integers, floats return floats.
