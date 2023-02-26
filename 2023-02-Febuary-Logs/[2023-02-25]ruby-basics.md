@@ -14,7 +14,7 @@ Also, Death Cab for Cutie's song Black Sun is on repeat >.<
 
 Completed Basic Data types, it really is super similar to Python, with just lots more built in things so far.
 
-Finished off the day by completing the next section of Ruby Basics.
+Finished off the day by completing the next section of Ruby Basics, which was on variables.
 
 # Notes
 
