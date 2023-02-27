@@ -16,7 +16,11 @@ Hashes section is completed, I need to be careful that I've got the correct synt
 
 Onto the lesson about methods now.
 
+Finished up the learning section and onto the assignments for the project.
 
+Completed a couple of Kana from CodeWars, fundamentals on Ruby, one was a simple string reverse and the other was to take an average of an array and then compare a number to see if it was higher or lower than the array.
+
+Completed half of the training exercises from the method section of Ruby Basics.
 
 # Code Snippet Notes
 
