@@ -14,5 +14,17 @@ Finished the method exercises, so far so good. I'm not getting caught up in thin
 
 Debugging reminds me that I used to be a tester on a video game, if you're reading this and want to see, it is a game called "The 39 Steps" made by TernTV.
 
+Pry-byebug is an interesting concept to me, I'm looking forward to playing with it after reading all the rest of the resources in the assignment for debugging.
+
+Installing the gems and didn't realise that I needed to change some of my settings for Ruby to work with Zsh instead of Bash so it threw errors until I worked it out.
+
 # Termnial Work
 Bash was starting to annoy me, so I've learned how to install Zsh and it is now installed as well as OhMyZsh and it has been made pretty.
+
+# CodeWars
+
+Completed two Javascript Kata in order to keep it fresh and to try to upgrade myself while away from the learning on TOP.
+
+One was to count by X and the other was to determine if a number was even or odd.
+
+Completed the Even or Odd in Ruby as well.
