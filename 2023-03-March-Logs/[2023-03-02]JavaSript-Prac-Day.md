@@ -14,6 +14,9 @@ Onto the next section - basic enumerable methods. This will be interesting as I'
 
 (On another note, I'm past the 25% mark of completion for Ruby)
 
+So, I went back to Odin after dinner, I'm extremely dissapointed in TOP for this lesson. I can get a joke, but this page has entered mean girl territory and the joke just isn't funny anymore and is rubbing me up the wrong way and not being useful or helpful at all.
+
+I've skipped straight to the assignment section to read the other resources on the topic as this is just bullshit.
 
 # Notes
 Reminder to self to take a new snapshot of my env after having installed things onto it.
