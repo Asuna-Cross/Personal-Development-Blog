@@ -7,3 +7,11 @@ VS Code seems to be breaking and not picking up when I'm doing changes to my dia
 # Update
 
 The git section of the diary was corrupted, thus loosing all changes that have been done over the past 24hrs.
+
+# TOP and CodeWars
+
+Finished up the basic ruby exercises on The Odin Project today, these can be seen in my repo with the same name. It was interesting to find out new things.
+
+Worked on CodeWars for a bit too, managed to level up my JavaScript and was working on a Ruby project in which it would output the correct thing and how they wanted it, but I failed the test because it wasn't in the right format.
+
+Last minute, about to give up, managed to solve it.
