@@ -19,3 +19,7 @@ Found it, however it only shows how to display the board, not to check for win c
 # Shirokuma Cafe
 
 I remembered a lot more than expected! I was able to sit through the entire episode and only get lost a couple of times. Will move onto the next episode next time and keep my learning going along the Japanese track for languages.
+
+# Closing For the Day
+
+Temperature in my flat has dropped to levels where I'm too cold to keep going on for the day, so will do more work tomorrow and pass on the rest of my tasks for today.
